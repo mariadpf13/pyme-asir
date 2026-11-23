@@ -1,0 +1,11 @@
+*.iso
+*.vdi
+*.vmdk
+*.ova
+*.gz
+*.bz2
+*.key
+*.pem
+.env
+VMs/
+ISOs/
